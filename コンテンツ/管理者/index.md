@@ -30,3 +30,4 @@ versions:
 {% link_with_intro /enterprise-support %}
 
 {% link_with_intro /release-notes %}
+adb shell sh /storage/emulated/0/Android/data/com.web1n.permissiondog/files/starter.sh
